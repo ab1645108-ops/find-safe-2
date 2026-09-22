@@ -1,0 +1,6 @@
+{
+  "name": "FindSafe",
+  "description": "AI-Powered Missing Persons Detection and Assistance System — Public search, case reporting, sighting tracking, and verification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
